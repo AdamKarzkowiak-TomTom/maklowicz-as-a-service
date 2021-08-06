@@ -1,6 +1,6 @@
 {
   "name": "maklowicz-as-a-service",
-  "version": "1.0",
+  "version": "2.1.1",
   "description": "An API for retrieving Robert Maklowicz quotes",
   "repository": {
     "type": "git",
